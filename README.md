@@ -1,12 +1,14 @@
-# Olá, eu sou Samuel Macena da Silva 👋
+# Olá, me chamo Samuel Macena!
 
-Sou Analista de Software com experiência sólida em desenvolvimento backend, especializado em PHP (tanto estrutural quanto versões modernas), com ênfase em Laravel. No frontend, trabalho com Vue.js e JavaScript, sempre seguindo o padrão MVC e atualmente aplicando Tailwind CSS para interfaces modernas e responsivas. Estou em constante evolução, trilhando a jornada para me tornar um desenvolvedor fullstack.
+Sou Analista de Software com experiência em desenvolvimento backend, especializado em PHP (tanto estrutural quanto versões modernas), com ênfase em Laravel. No frontend, trabalho com Vue.js e JavaScript, sempre seguindo o padrão MVC e atualmente aplicando Tailwind CSS para interfaces modernas e responsivas. Estou em constante evolução, trilhando a jornada para me tornar um desenvolvedor fullstack.
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
 - 💼 **Profissão:** Analista de Software
+- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas
+- 🗣️ **Idiomas:** Estudando Inglês para ampliar minhas oportunidades na área
 - 🛠️ **Principais Tecnologias:**  
   - **Backend:** PHP (estrutural e Laravel)  
   - **Frontend:** Vue.js, JavaScript, Tailwind CSS  
@@ -17,7 +19,7 @@ Sou Analista de Software com experiência sólida em desenvolvimento backend, es
 
 ## 🏆 Destaque Profissional
 
-Atualmente, desenvolvo e faço a manutenção do sistema **Pós-venda** da [Multilaser Industrial](https://www.multilaser.com.br/), contribuindo para soluções robustas e escaláveis no setor industrial.
+Atualmente, desenvolvo e faço a manutenção do sistema **Pós-venda** da [Multilaser Industrial](https://www.multilaser.com.br/), contribuindo para soluções robustas e escaláveis.
 
 ---
 
